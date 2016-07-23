@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Your Church +Portland]]></title>
+        <description><![CDATA[Your Church +Portland]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jul 2016 00:45:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Job #17]]></title>
+            <description><![CDATA[<article><h1>Job #17</h1><p>Have you ever felt beat up by life? (I tried my best to open with an encouraging sentence to start your week!) I've never been one to talk about my everyday life all over the interwebs, but I've been on the hunt for a new job as my current one has turned sour. In the past 60 days, I've applied to 16 companies, been interviewed 6 times, and have been turned down all 16 times for jobs I was well-qualified for. Safe to say, I feel a little beat up by life.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/401f79a3-650a-4b05-b91a-60fa50ca85ed.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/401f79a3-650a-4b05-b91a-60fa50ca85ed.jpg</link>
+            <guid isPermaLink="false">c1ae4cfb-cddb-4eb5-8d80-59b9c58e96c7</guid>
+            <pubDate>Sat, 23 Jul 2016 00:45:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
